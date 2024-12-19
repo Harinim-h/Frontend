@@ -5,7 +5,23 @@ const Navbar = () => {
     return (
         <div>
             <nav>
-                <Link to='/'>POLLS AND SURVEYS</Link>
+                <Link to='/'>POLLS
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                </Link>
                 <Link to='/products'>Products</Link>
             </nav>
         </div>
